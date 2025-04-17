@@ -15,5 +15,5 @@ The following table provides a description of the field names used in the shapef
 | perc.s.sp.  | Frequency of *Senna siamea* and *Senna spectabilis*                       |
 
 
-Field surveys have been conducted by Simone Iacopino, Carlo Piazzi and Tommaso Sitzia in collaboration with Deus Kamunyu Muhwezi and the assistance of Elly Bwabu.
+Field surveys were conducted by Simone Iacopino, Carlo Piazzi, and Tommaso Sitzia, in scientific collaboration with Deus Kamunyu Muhwezi and with field assistance from Elly Bwabu.
 
