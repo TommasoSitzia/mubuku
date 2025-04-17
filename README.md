@@ -4,4 +4,15 @@ Frequency of <i>Lantana camara</i>, <i>Senna siamea</i>, and <i>S. spectabilis</
 
 A shapefile with per-section frequency data is available in the [`shapefiles/`](shapefiles/) folder.
 
+The following table provides a description of the field names used in the shapefile.
+
+| Field name  | Description                                                              |
+|-------------|---------------------------------------------------------------------------|
+| nosect      | Progressive position of the section from the intersection with the road Fort Portal - Kasese |
+| perc.lan    | Frequency of *Lantana camara*                                             |
+| perc.siam   | Frequency of *Senna siamea*                                               |
+| perc.spec   | Frequency of *Senna spectabilis*                                          |
+| perc.s.sp.  | Frequency of *Senna siamea* and *Senna spectabilis*                       |
+
+
 
